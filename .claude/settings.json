@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -m kt *)",
+      "Bash(python -m kt *)",
+      "Read(/novels/**)",
+      "Edit(/novels/**)",
+      "Write(/novels/**)"
+    ]
+  }
+}

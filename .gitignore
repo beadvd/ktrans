@@ -1,0 +1,11 @@
+# Source and translated texts never go into the repository.
+novels/
+
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+*.epub.tmp
+.DS_Store
+.claude/settings.local.json
